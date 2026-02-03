@@ -19,6 +19,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 @include ~/.claude/includes/dialyzer-json.md
 @include ~/.claude/includes/library-design.md
 
+## Published Package
+
+- **Hex**: https://hex.pm/packages/taapi_ex
+- **Docs**: https://hexdocs.pm/taapi_ex
+- **Source**: https://github.com/ZenHive/taapi_ex
+
 ## Commands
 
 ```bash
