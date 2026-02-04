@@ -4,7 +4,7 @@
 [![Docs](https://img.shields.io/badge/hex-docs-blue.svg)](https://hexdocs.pm/taapi_ex)
 [![License](https://img.shields.io/hexpm/l/taapi_ex.svg)](LICENSE)
 
-Elixir client for [Taapi.io](https://taapi.io) technical analysis API with all 208 indicators.
+Elixir client for [Taapi.io](https://taapi.io/?ref=24745) technical analysis API with all 208 indicators.
 
 ## Features
 
@@ -158,7 +158,7 @@ All 208 Taapi.io indicators organized by category:
 | **Math** | `abs`, `ceil`, `floor`, `max`, `min`, `sqrt`, `sum` |
 | **Price** | `candle`, `candles`, `price`, `avgprice`, `medprice`, `typprice` |
 
-See [Taapi.io Indicators](https://taapi.io/indicators/) for the complete list.
+See [Taapi.io Indicators](https://taapi.io/indicators/?ref=24745) for the complete list.
 
 ## Rate Limiting
 
@@ -166,11 +166,11 @@ This library does **not** implement rate limiting. Taapi.io has rate limits base
 
 ## Getting an API Key
 
-1. Visit [Taapi.io](https://taapi.io)
+1. Visit [Taapi.io](https://taapi.io/?ref=24745)
 2. Sign up for a free account
 3. Get your API key from the dashboard
 
-Free tier includes limited requests. See [pricing](https://taapi.io/product-category/subscription/) for higher limits.
+Free tier includes limited requests. See [pricing](https://taapi.io/product-category/subscription/?ref=24745) for higher limits.
 
 ## License
 

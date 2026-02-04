@@ -1,6 +1,6 @@
 defmodule Taapi do
   @moduledoc """
-  Elixir client for Taapi.io technical analysis API.
+  Elixir client for [Taapi.io](https://taapi.io/?ref=24745) technical analysis API.
 
   Provides functions for all 208 Taapi.io indicators with explicit API key passing.
 
